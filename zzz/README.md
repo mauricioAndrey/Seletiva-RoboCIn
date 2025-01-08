@@ -1,7 +1,7 @@
-# Jornada durante a busca pela solução
+## Jornada durante a busca pela solução
 
 
-## Entrega Parcial
+### Entrega Parcial
 
 <details>
 <summary>Dificuldades</summary>
@@ -42,10 +42,11 @@
 
 Estava perdido então só escrevi meus pensamentos durante esse processo. 
 
-## Dias
+### Dias
 
 <details> 
 <summary>Dia 7/1</summary>
+
  - Li toda a documentação do projeto, abri os links que estavam lá e estou tentando entender como resolver isso. 
  - Vi uma parte do repositório do RoboCin que tinha coisas sobre odometria e como as coisas estavam estruturadas lá. Tenho uma vaga impressão com o que vou ter que mexer, mas ainda preciso que eu entenda melhor as ferramentas e os componentes que mencionaram. 
  - Estou esperando a platformIO terminar de criar o projeto que coloquei num board Freestyle e na framework mBed como falaram. (mas não sei se esse board estaria certo, vou testar e ver como é).
@@ -55,6 +56,7 @@ Estava perdido então só escrevi meus pensamentos durante esse processo.
 ---
 <details> 
 <summary>Dia 8/1</summary>
+
  - Vi que mandaram um vídeo sobre o desafio vou ver ele enquanto espero o platformIO fazer o projeto na board Nucleo F767ZI que mandaram no discord que seria o ideal para fazer as coisas por meio da framework mbed. 
  - Consegui entender bem mais sobre o que é o giroscópio e a mexer mais no platformIO, ainda preciso ver como mexer no microcontrolador sem ter o negocinho físico comigo além de fazer a comunicação do sensor para obter os dados. Sinto que estou entendendo bem mais o que fazer agora. 
  - Acho que preciso construir um planejamento de atividades e deadlines...
